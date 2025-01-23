@@ -126,6 +126,5 @@ project-directory/
 ---
 
 ## **Contributors**
-- **Aditi Khare**: Project lead and developer. (aditi@example.com)
-
+- **Aditi Khare**: Project lead and developer. (toaditikhare@gmail.com) under the guidance of **Dr. Amit P. Kesarkar** (Scientist, NARL)
 
